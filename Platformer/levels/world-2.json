@@ -1,0 +1,46 @@
+{
+	"name": "World 2",
+	"width": 32,
+	"height": 10,
+	"background-color": [130, 182, 255],
+	"background-img": "assets/backgrounds/volcano.png",
+	"background-position": "bottom",
+	"background-repeat-x": 1,
+	"background-fill-y": 1,
+	"scenery-img": "assets/backgrounds/volcano.png",
+	"scenery-position": "bottom",
+	"scenery-repeat-x": 1,
+	"scenery-fill-y": 1,
+	"music": "assets/sounds/theme_of_the wanderer.ogg",
+	"start": [4, 8],
+	"gravity": 1.0,
+	"terminal-velocity": 32,
+	"blocks": [[0, 9, "R"], [1, 9, "R"], [2, 9, "R"], [3, 9, "R"], [4, 9, "R"],
+	           [5, 9, "R"], [6, 9, "R"], [7, 9, "R"], [8, 9, "R"], [9, 9, "R"],
+						 [10, 9, "R"], [11, 9, "R"], [12, 9, "R"], [13, 9, "R"], [14, 9, "R"],
+						 [15, 9, "R"], [16, 9, "R"], [17, 9, "R"], [18, 9, "R"], [19, 9, "R"],
+						 [20, 9, "R"], [21, 9, "R"], [22, 9, "R"], [23, 9, "R"], [24, 9, "R"],
+						 [25, 9, "R"], [26, 9, "R"], [27, 9, "R"], [28, 9, "R"], [29, 9, "R"],
+						 [30, 9, "R"], [31, 9, "R"],
+
+						 [3, 7, "R"], [4, 7, "R"], [5, 7, "R"],
+
+						 [7, 5, "R"], [8, 5, "R"],
+
+						 [12, 7, "R"], [14, 5, "R"],
+
+						 [16, 3, "R"], [17, 3, "R"], [18, 3, "R"], [19, 3, "R"], [20, 3, "R"],
+
+						 [24, 8, "R"],  [25, 7, "R"], [25, 8, "R"],
+						 [26, 6, "R"],  [26, 7, "R"], [26, 8, "R"]],
+	"bears": [[8, 4], [13, 8]],
+	"monsters": [[18, 2]],
+  "coins": [[4, 5], [16, 6], [18, 7], [20, 7]],
+	"oneups": [[7, 4]],
+	"hearts": [[18, 2]],
+	"flag": [[30, 5], [30, 6], [30, 7], [30, 8]],
+	"eggs": [[10, 6]],
+	"fly": [[12, 2]],
+	"slowrock": [[17, 5]],
+	"leaf": [[15, 4]]
+}
